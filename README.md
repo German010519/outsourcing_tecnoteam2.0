@@ -1,4 +1,4 @@
-# outsourcing_tecnoteam2.0
+# OUTSOURCING
 
 Equipo de Desarrollo: TecnoTeam2.0 
 
